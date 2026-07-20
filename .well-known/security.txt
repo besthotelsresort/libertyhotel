@@ -1,0 +1,4 @@
+Contact: mailto:security@libertyhotel.example
+Expires: 2027-07-20T12:27:34.727Z
+Preferred-Languages: en, de, fr
+Canonical: https://libertyhotel.onrender.com/.well-known/security.txt
