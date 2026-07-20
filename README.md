@@ -1,0 +1,2 @@
+# libertyhotel
+Static site: libertyhotel
